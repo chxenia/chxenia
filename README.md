@@ -19,8 +19,7 @@
 ### :woman_technologist: About Me :
 
 My name is Ksenia. I am a student of  <a href="bsu-link">BSU</a>,  <a href="https://fpmi.bsu.by/en/main.aspx">Faculty of Applied Mathematics and Computer Science</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<!-- - 💻 I'm currently focused on learning Swift & SwiftUI to expand my knowledge in mobile app development.  -->
+- 💻 I'm currently focused on learning Swift & SwiftUI to expand my knowledge in mobile app development. 
 - 📖 Staying updated with the latest tech trends and advancements by reading tech articles. 
 
 - :zap: In my free time, I solve problems on CodeWars and LeetCode to sharpen my coding skills. 
@@ -29,11 +28,11 @@ My name is Ksenia. I am a student of  <a href="bsu-link">BSU</a>,  <a href="http
 
 ###  📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xenia155)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chxenia)](https://git.io/streak-stats) 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenia155&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenia155&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chxenia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
