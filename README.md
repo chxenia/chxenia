@@ -28,9 +28,7 @@ My name is Xenia. I am a student of  <a href="https://bsu.by/en/">BSU</a>,  <a h
 
 ###  📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chxenia)](https://git.io/streak-stats) 
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenia155&show_icons=true) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chxenia)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chxenia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
