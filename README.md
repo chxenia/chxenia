@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me :
 
-My name is Xenia. I am a student of  <a href="bsu-link">BSU</a>,  <a href="https://fpmi.bsu.by/en/main.aspx">Faculty of Applied Mathematics and Computer Science</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Xenia. I am a student of  <a href="[bsu-link](https://bsu.by/en/)">BSU</a>,  <a href="https://fpmi.bsu.by/en/main.aspx">Faculty of Applied Mathematics and Computer Science</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I'm currently focused on learning Swift & SwiftUI to expand my knowledge in mobile app development. 
 - 📖 Staying updated with the latest tech trends and advancements by reading tech articles. 
 
